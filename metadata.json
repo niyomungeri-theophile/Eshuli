@@ -1,0 +1,5 @@
+{
+  "name": "EshuliTV Control Center",
+  "description": "Professional dashboard for EshuliTV Ltd to monitor TV status, temperature, and cooling systems.",
+  "requestFramePermissions": []
+}
